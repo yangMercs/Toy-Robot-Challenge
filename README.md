@@ -40,7 +40,7 @@ npm i yargs@12.0.5
 npm i inquirer@6.5.2
 
 
-#### Running the Application
+Running the Application
 npm start
 
 Example Input and Output:
