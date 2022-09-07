@@ -38,9 +38,6 @@ npm install
 npm i chalk@2.4.2
 npm i yargs@12.0.5
 npm i inquirer@6.5.2
-
-
-Running the Application
 npm start
 
 Example Input and Output:
