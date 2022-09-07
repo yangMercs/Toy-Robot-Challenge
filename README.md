@@ -1,9 +1,5 @@
 # Toy Robot Coding Challenge
 
-[![Build Status](https://travis-ci.org/luvuong-le/toy-robot-simulator.svg?branch=master)](https://travis-ci.org/luvuong-le/toy-robot-simulator)
-[![dependencies Status](https://david-dm.org/luvuong-le/toy-robot-simulator/status.svg)](https://david-dm.org/luvuong-le/toy-robot-simulator)
-[![devDependencies Status](https://david-dm.org/luvuong-le/toy-robot-simulator/dev-status.svg)](https://david-dm.org/luvuong-le/toy-robot-simulator?type=dev)
-
 ## Instruction
 
 -   You are required to simulate a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
@@ -44,7 +40,7 @@ npm i yargs@12.0.5
 npm i inquirer@6.5.2
 
 
-### Running the Application
+>>>Running up the Application<<<
 npm start
 
 
