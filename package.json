@@ -1,0 +1,20 @@
+{
+  "name": "toy-robot-challenge",
+  "version": "1.0.0",
+  "description": "technical skill interview requirement",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js run -p"
+  },
+  "keywords": [
+    "toy",
+    "robot"
+  ],
+  "author": "Peter Paul Mercado",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.5.2",
+    "yargs": "^12.0.5"
+  }
+}
