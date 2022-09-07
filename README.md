@@ -28,8 +28,8 @@
 
 
 ### Usage
-
 Node JS and NPM must be installed
+
 
 ```javascript
 Install Dependencies
@@ -40,7 +40,35 @@ npm i yargs@12.0.5
 npm i inquirer@6.5.2
 
 
->>>Running up the Application<<<
+#### Running the Application
 npm start
+
+Example Input and Output:
+
+a)  PLACE 0,0,NORTH
+    MOVE
+    REPORT
+
+    Expected Output: 0,1,NORTH
+
+b)  PLACE 0,0,NORTH
+    LEFT
+    REPORT
+
+    Expected Output: 0,0,WEST
+
+c)  PLACE 1,2,EAST
+    MOVE
+    MOVE
+    LEFT
+    MOVE
+    REPORT
+
+    Expected Output: 3,3,NORTH
+
+
+
+
+
 
 
